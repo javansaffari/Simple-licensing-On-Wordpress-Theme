@@ -3,7 +3,6 @@ How Do I Protect My Premium WordPress Theme from Someone Deleting my Copyright?
 
 <h2>Hello World!</h2>
 <p>By using this file You can protect your WordPress theme</p>
-<h3>How This Work</h3>
+<h3>How Does It Work?</h3>
 <p>When somebody want delete your Copyright on theme have you any solution?
-If you instal my code on wordpress theme when your copyright is delete.
-My code come help you, and don't permit to theme for continue working, and user just see a white  page </p>
+Do you have any solutions when someone wants to delete your Copyright on your theme? If you install this code into you WordPress theme, when your copyright is delete, this code will not permit the user to continue using this theme, and user will just see a white page.
