@@ -1,8 +1,8 @@
 # Simple-licensing-On-Wordpress-Theme
-How Do I Protect My Premium WordPress Theme from Delete Copyright?
+How Do I Protect My Premium WordPress Theme from Someone Deleting my Copyright?
 
 <h2>Hello World!</h2>
-<p>By this file You can protect Wordpress theme</p>
+<p>By using this file You can protect your WordPress theme</p>
 <h3>How This Work</h3>
 <p>When somebody want delete your Copyright on theme have you any solution?
 If you instal my code on wordpress theme when your copyright is delete.
